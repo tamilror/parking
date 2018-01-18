@@ -4,14 +4,14 @@ Solving a simple parking lot ticketing problem using ruby
 
 Setup:
 
-  Clone the repository
+  - Clone the repository
   
-  Create a sample data file
+  - Create a sample data file
 
-  1. Run commands together by having commands in a file
+  - Run commands together by having commands in a file
   
      run ./parking your_file_name (Make sure it has executable permission)
 
-  2. Run Commands one by one
+  - Run Commands one by one
   
      run ./parking
