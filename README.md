@@ -1,8 +1,11 @@
 Parking Lot Problem
+
 Solving a simple parking lot ticketing problem using ruby
 
 Setup
+
 Clone the repository
+
 Create a sample data file
 
 1. Run commands together by having commands in file
