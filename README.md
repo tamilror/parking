@@ -8,7 +8,7 @@ Setup:
   
   Create a sample data file
 
-  1. Run commands together by having commands in file
+  1. Run commands together by having commands in a file
   
      run ./parking your_file_name (Make sure it has executable permission)
 
